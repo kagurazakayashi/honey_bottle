@@ -1,0 +1,3 @@
+[submodule "libNyaruko_Flutter"]
+	path = libNyaruko_Flutter
+	url = https://github.com/kagurazakayashi/libNyaruko_Flutter.git
